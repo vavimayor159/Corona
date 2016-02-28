@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Corona</string>
+    <string name="no_text">Si</string>
+    <string name="yes_text">No</string>
+    <string name="promotion_text">Quieres una promocion?</string>
+</resources>
